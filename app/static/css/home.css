@@ -1,6 +1,23 @@
 header h1 {
-	display: block;
-	width: 100%;
 	margin: 2px auto;
 	text-align: center;
 }
+
+form {
+	width: 60vw;
+	max-width: 500px;
+	min-width: 300px;
+	margin: 2em auto;
+}
+
+.get-prompt {
+	display: block;
+	margin: 0.5rem 0;
+}
+
+#Prompt {
+	width: 100%;
+	min-height: 2em;
+	margin: 10px 0;
+}
+
