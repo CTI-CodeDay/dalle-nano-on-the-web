@@ -20,6 +20,7 @@ form {
 .get-prompt {
 	display: block;
 	margin: 0.5rem 0;
+	padding-right: 1.1em;
 	border: none;
 	border-bottom: 3px solid #3b3b4f;
 }
