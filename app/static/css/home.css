@@ -33,14 +33,14 @@ form {
 
 #submit-prompt {
 	display: block;
-	width: 60%;
+	width: 20%;
 	margin: 1em auto;
 	height 2em;
 	font-size: 1.1rem;
 	background-color: #3b3b4f;
 	border-color: white;
 	color: #f5f6f7;
-	min-width: 300px;
-	min-height: 2em;
+	/* min-width: 300px;
+	min-height: 2em;*/
 }
 
